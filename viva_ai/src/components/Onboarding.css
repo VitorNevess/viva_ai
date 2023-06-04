@@ -1,16 +1,16 @@
 .formOnboarding {
     position: absolute;
-/* width: 149.47px; */
-height: 71px;
-left: 211.6px;
-top: 241px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 37.3684px;
-line-height: 143.19%;
-/* or 54px */
-
-color: #166E82;
-  }
+    width: 480px;
+    height: 638px;
+    left: 211.6px;
+    top: 185px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 37.3684px;
+    line-height: 143.19%;
+    background: #FFFCF4;
+    border: 1px solid #166E82;
+    box-shadow: 3px 3px 0px #166E82;
+    border-radius: 20px;
+}
